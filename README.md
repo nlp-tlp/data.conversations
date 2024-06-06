@@ -4,7 +4,7 @@
 
 Data.conversations is a new series by the UWA Data Institute aimed at pulling back the curtain on AI for people at manager level and above that are not data science or IT practitioners.
 
-The target attendee is someone who sees many potential opportunities for the introduction of AI to improve business process in their teams. This person wants to understand more about potential pipelines, capabilities, data, and time required, and hear what others' experiences have been. They'd value the opportunity to ask questions.
+The target attendee is someone who sees many potential opportunities for the introduction of AI to improve business process in their teams. This person wants to understand more about potential pipelines, capabilities, data, and time required, and hear what others' experiences have been. They are curious (but cautious) and value the opportunity to ask questions.
 
 A data.conversations 1/2 day workshop is about having these conversations.
 
