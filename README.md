@@ -8,7 +8,7 @@ The target attendee is someone involved in assessing potential opportunities for
 
 A data.conversations 1/2 day workshop is about having these conversations.
 
-The format will be based on a series of short talks, panels and small group discussions with participants able to interact with the speakers and each other. Each data.conversations workshop will have a theme. The first one is on Natural language processing, Chat GPT, and language models for industrial applications.
+The format will be based on a series of short talks, panels and small group discussions with participants able to interact with the speakers and each other. Each data.conversations workshop will have a theme. The first one is on Natural language processing, Chat GPT, and language models.
 
 ## data.conversations#1 - language-based pipelines to deliver value
 
