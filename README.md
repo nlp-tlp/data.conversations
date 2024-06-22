@@ -2,13 +2,13 @@
 
 ## What is a data.conversations workshop?
 
-Data.conversations is a new series by the UWA Data Institute aimed at pulling back the curtain on AI for people at manager level and above that are not data science or IT practitioners.
+Data.conversations is a new series by the UWA Data Institute aimed at people at manager level and above that are not data science or IT practitioners whose teams are using AI.
 
-The target attendee is someone who sees many potential opportunities for the introduction of AI to improve business process in their teams. This person wants to understand more about potential pipelines, capabilities, data, and time required, and hear what others' experiences have been. They are curious (but cautious) and value the opportunity to ask questions.
+The target attendee is someone involved in assessing potential opportunities for the introduction of AI to improve business process. In this fast moving space you want to understand more about potential pipelines, capabilities, data, and time required, and hear what others' experiences have been. You are curious (but cautious) and value the opportunity to ask questions.
 
 A data.conversations 1/2 day workshop is about having these conversations.
 
-The format will be based on a series of short talks, panels and small group discussions with participants able to interact with the speakers and each other. Each data.conversations workshop will have a theme.
+The format will be based on a series of short talks, panels and small group discussions with participants able to interact with the speakers and each other. Each data.conversations workshop will have a theme. The first one is on Natural language processing, Chat GPT, and language models for industrial applications.
 
 ## data.conversations#1 - language-based pipelines to deliver value
 
