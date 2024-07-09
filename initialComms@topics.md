@@ -1,12 +1,14 @@
 ### V2
 
-Hi X, I am organising an event on AI for managers that I hope you might be interested in. The goal of this 1/2 day interactive event in mid August is to enable managers like yourself to discover how modern AI language pipelines are transforming business processes.
+Hi X, I am organising an event on AI for managers that I hope you might be interested in. The goal of this half-day interactive event in mid August is to enable managers like yourself to discover how modern AI language ptools are transforming business processes.
 
-I want to tailor this event to your needs. So my questions to you are what topics and format would encourage you to spend a morning at this event? Would you be prepared to drop me a reply here on LinkedIn or give me a quick call before July 2nd (0439512475) to discuss.
+I want to tailor this event to your needs. So my questions to you are what topics and format would encourage you to spend a morning at this event? Would you be prepared to drop me a reply here on LinkedIn or give me a quick call before July 2nd (0439512475) to discuss?
 
-This August event will be focussed on machine processing of unstructured texts (querying for information, automating assigning codes etc). Our experience with unstructured texts includes technical reports, manuals, safety records, maintenance work orders but this is the tip of the iceberg on what is possible. Managers know what their teams do, but need to know what is possible.
+This August event will be focussed on machine processing of unstructured texts (querying for information, label assignemnt etc). Our experience with unstructured texts includes technical reports, manuals, safety records, and maintenance work orders but this is the tip of the iceberg on what is possible. Managers know what their teams do, but need to know what is possible.
 
-Did you know that the NLP-TLP group here at UWA is one of the world leaders in processing unstructured technical texts but we have more direct contact with companies in Europe and the US than we do in Perth! We are hoping this event will change this situation.
+Did you know that the Technical Language Processing (NLP-TLP) group here at UWA is one of the world leaders in processing unstructured technical texts but we have more direct contact with companies in Europe and the US than we do in Perth! We are hoping this event will change this situation.
+
+Add link
 
 ### version 1
 
