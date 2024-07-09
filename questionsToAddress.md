@@ -32,26 +32,26 @@ Upcoming technologies and innovations
 
 ### Suggested format
 
-# Welcome and introduction (15 mins)
+## Welcome and introduction (15 mins)
 Brief overview of the event's purpose and agenda
 
-# Keynote or opening Presentation (30 mins)
+## Keynote or opening Presentation (30 mins)
 High level introduction to AI and its business applications
 
-# Case study presentations (45 mins)
+## Case study presentations (45 mins)
 Detailed examples from UWA and other organisations
 
-# Interactive demonstrations (1 hour)
+## Interactive demonstrations (1 hour)
 Live demo of AI tools with Q&A sessions
 
-# Panel / group discussion
+## Panel / group discussion
 Experts answering questions
 
-# Networking and discussions
+## Networking and discussions
 Opportunity for attendees to interact and discuss potential collaborations
 
-## Engagement
+### Engagement
 Encourage participation from Q&A sessions, polls and interactive activities
 
-## Follow up
+### Follow up
 Provide attendees with additional resources, such as whitepapers or access to demo tools, after the event
